@@ -1,10 +1,12 @@
-# SAE 2.06 Organisation d'un travail d'équipe 
+# Génération automatisée de cartes étudiantes
 
-## Contexte du projet (SAE)
+## Contexte du projet
 
-Ce projet a été réalisé dans le cadre d’une SAE du BUT Informatique, à l’IUT Lyon 1 – site de Bourg-en-Bresse.
+Ce projet a été réalisé dans le cadre d’une **SAE** (*Situation d’Apprentissage et d’Évaluation*, **2.06 – Organisation d’un travail d’équipe**) du **BUT Informatique**, à l’IUT Lyon 1 – site de Bourg-en-Bresse.
 
-La SAE s’inscrit dans une démarche de **communication et de valorisation du site de Bourg-en-Bresse** (IUT, départements, ville, département de l’Ain), notamment à travers la création de supports multi-supports destinés à des événements tels que les Journées Portes Ouvertes.
+La SAÉ est le dispositif pédagogique qui structure les projets du BUT : l’IUT confie aux étudiants un projet conséquent, réalisé en équipe, qui reproduit les conditions d’un travail réel : cahier des charges, gestion de projet, travail collaboratif et livrable évalué. Ces situations d’apprentissage constituent l’un des principaux vecteurs d’évaluation de la formation, en **contrôle continu**.
+
+Le projet s’inscrit dans une démarche de **communication et de valorisation du site de Bourg-en-Bresse** (IUT, départements, ville, département de l’Ain), notamment à travers la création de supports multi-supports destinés à des événements tels que les Journées Portes Ouvertes.
 
 Le projet s’inscrit dans un **cadre pédagogique**, avec un objectif de production concrète répondant à un besoin de communication réel.
 
