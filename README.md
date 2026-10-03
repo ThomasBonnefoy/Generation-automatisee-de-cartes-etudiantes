@@ -86,9 +86,10 @@ Projet réalisé en groupe dans le cadre de la SAE.
 
 ### Membres du groupe
 
-* Yann Madry
-* Tristan Muller
+* [Yann Madry](https://github.com/yann-madry)
+* [Tristan Muller](https://github.com/tristanmuller007)
 * Jolan Berbey
+* [Thomas Bonnefoy](https://github.com/ThomasBonnefoy)
 
 ### Répartition du travail
 
